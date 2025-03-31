@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Nuaim</h1>
-<h3 align="center">A passionate Data Analyst from Saudi Arabia</h3>
+<h3 align="center">A passionate Data Analyst / Front-End Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/auin0" target="blank"><img src="https://img.shields.io/twitter/follow/auin0?logo=twitter&style=for-the-badge" alt="auin0" /></a> </p>
 
-- 🔭 I’m currently working as a Back-End Developer at [Leagainaha](http://legainaha.com)
+- 🔭 I’m currently working as a Community Lead at [Saudi Developers Community]([http://SDC.com](https://www.linkedin.com/company/sdc-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%84%D9%84%D9%85%D8%B7%D9%88%D8%B1%D9%8A%D9%86/))
 
-- 🌱 I’m currently learning **Data Analysis, Back-End Development**
+- 🌱 I’m currently learning **Data Engineering, Back-End Development**
 
 - 👨‍💻 All of my projects are available at ["Soon!"]("Soon!")
 
