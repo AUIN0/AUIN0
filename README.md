@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Nuaim</h1>
-<h3 align="center">A passionate Data Analyst / Front-End Developer</h3>
+<h3 align="center">A passionate Product Manager</h3>
 
 <p align="left"> <a href="https://twitter.com/ahmed1alnuaim" target="blank"><img src="https://img.shields.io/twitter/follow/Ahmed1Alnuaim?logo=twitter&style=for-the-badge" alt="ahmed1alnuaim" /></a> </p>
 
-- 🔭 I’m currently working as a Community Lead at [Saudi Developers Community]((https://x.com/SDC_Saudi))
+- 🔭 I’m currently a COOP Intern at [Saudi Aramco]((https://x.com/saudi_aramco))
 
-- 🌱 I’m currently learning **Data Engineering, Back-End Development**
+- 🌱 I’m have a big passion in **Product Management & Digital Transformation**
 
-- 👨‍💻 All of my projects are available at ["Soon!"]("Soon!")
-
-- 💬 Ask me about **SQL, Python, Laravel, Flutter**
+- 💬 Ask me about **Entrepreneurship, Agile Practices, Product Thinking, and how to turn ideas into real solutions**
 
 - ⚡ Fun fact **I am a big self learner**
 
