@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmed1alnuaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="auin0" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/ahmed-al-nuaim-781b52214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-al-nuaim" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ahmed-al-nuaim-781b52214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-al-nuaim" height="30" width="40"/></a>
 <a href="https://kaggle.com/ahmeduin0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmeduin0" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed1alnuaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmeduin0" height="30" width="40" /></a>
 </p>
